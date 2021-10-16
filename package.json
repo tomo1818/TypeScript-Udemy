@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomo1818/TypeScript-Udemy/issues"
   },
-  "homepage": "https://github.com/tomo1818/TypeScript-Udemy#readme"
+  "homepage": "https://github.com/tomo1818/TypeScript-Udemy#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
